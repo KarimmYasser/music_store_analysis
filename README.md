@@ -1,8 +1,3 @@
----
-noteId: "417f99f0948811f0a353592e0ec824fe"
-tags: []
----
-
 # Music Store Analysis
 
 This project analyzes sales and customer data for a small online music store using Python and pandas. The goal is to generate key business insights to inform marketing and product decisions.
